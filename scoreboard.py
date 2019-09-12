@@ -1,3 +1,7 @@
+"""
+This module implements the scoreboard class.
+"""
+
 import pygame.font
 from pygame.sprite import Group
 
