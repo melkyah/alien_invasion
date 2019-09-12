@@ -5,7 +5,7 @@ Base class for creating buttons in the game.
 import pygame.font
 
 
-class Button():
+class Button:
     """This class handles the button."""
 
     def __init__(self, ai_game, msg):

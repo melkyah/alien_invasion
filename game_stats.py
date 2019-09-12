@@ -3,7 +3,7 @@ This class keeps track of game stats.
 """
 
 
-class GameStats(object):
+class GameStats:
     """Tracks statistics for Alien Invasion."""
 
     def __init__(self, ai_game):
